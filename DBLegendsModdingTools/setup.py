@@ -9,10 +9,6 @@ setup(
     long_description_content_type='text/markdown',
     url='https://github.com/GodkuHacking/DBLegendsModdingTools',
     packages=find_packages(),
-    install_requires=['requests'],
-    package_data={
-        'DBLegendsModdingTools': ['src/*.py'],
-    },
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
